@@ -26,7 +26,7 @@ Each user can also set a profile picture that is displayed alongside their messa
 2. Install the required dependencies:
    ```bash
    pip install Pillow
-# Апликација за Чат од Рамноправен до Рамноправен
+# P2P Chat апликација
 
 ## Опис
 Ова е едноставна p2p chat апликација креирана заедно со мојата драга колешка @ema-dimishkov (https://github.com/ema-dimishkov) 
